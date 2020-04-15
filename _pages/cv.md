@@ -2,8 +2,6 @@
 | ------- | ----- | --------- | -------------- | ------------- |
 | archive | CV    | /cv/      | true           | /resume       |
 
-{% include base_path %}
-
 Education
 ======
 
@@ -40,6 +38,3 @@ Skills
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
