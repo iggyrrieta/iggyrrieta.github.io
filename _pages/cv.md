@@ -9,38 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 
 * Master's degree Automation and Robotics (2013 - 2014)
+
 * Engineer's degree - Electronics (2008 -2013)
+
+  
 
 Work experience
 ======
-* Vision and Automation Engineer at **AGEVE**
-  - AGEVE is a company with many years of experience selling its own industrial trucks. I ampart of the R&D department, which mainly focuses on developing self driven trucks. UsingROS (robotic operating system) and Deep Learning Techniques we are develoving our newnavigation system
+* Vision and Automation Engineer at [**AGEVE**](https://ageve.net/)
 
-* Vision and Automation Engineer at **AUSIL Systems**
-  * Ausil is a small company that provides computer vision solutions. At Ausil I was in charge ofthose projects where the traditional computer vision solutions didn’t work and Deep learningtechniques were needed instead.
+* Vision and Automation Engineer at [**AUSIL Systems**](http://www.ausilsystems.eu/)
+
+- Project Manager at [**ASSI**](https://www.assi.es/)
   
-
-- Project Manager at **ASSI**
-  - My job at ASSI consisted on managing projects involving PLC-SCADA programming, software-hardware communication and business understanding, mainly in the chemical industry. Inaddition, I also worked on other business areas, such as Airports (Pakistan, Denmark, Swe-den), where I have had the opportunity to learn different automation tools.
-
-- Field Engineer at **ENCO**
-  - During my time at ENCO I worked with a huge varity of SCADA’s (GE Cimplicity, Ifix, Wonder-ware), PLC’s (Bechkoff, Siemens, Schneider, EATON) and Data Base systems (M.SQL, MySQL).
-
-- Internship - Maintenance team at **SEAT S.L**
-  - My work at SEAT consisted on designing a new database using Microsoft SQL to store the datausedatthesparepartswarehouse.Usingstoredprocedures,triggersandviews,allthesedatacould then be analyzed and manipulated.
+- Field Engineer at [**ENCO**](https://www.encoweb.com/)
+  
+- Internship - Maintenance team at [**SEAT S.L**](https://www.seat.es/)
 
 
 
 Skills
 ======
 
-
-
-
-# Teaching
-
-{% for post in site.teaching %} {% include archive-single-cv.html %} {% endfor %}
+~~~gfm
+```mermaid
+pie
+    title Pie Chart
+    "Python" : 200
+    "C++" : 150
+    "ROS" : 150 
+    "Docker" : 100 
+    "ML" : 120 
+    "M2M" : 200 
+    "PLC" : 150 
+    "SCADA" : 150 
+```
+~~~
