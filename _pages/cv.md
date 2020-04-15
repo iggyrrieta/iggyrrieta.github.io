@@ -1,10 +1,6 @@
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-
-  - /resume
+| layout  | title | permalink | author_profile | redirect_from |
+| ------- | ----- | --------- | -------------- | ------------- |
+| archive | CV    | /cv/      | true           | /resume       |
 
 {% include base_path %}
 
