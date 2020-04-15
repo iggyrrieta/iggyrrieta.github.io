@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 
 
 Education
@@ -31,23 +29,3 @@ Work experience
 - Field Engineer at [**ENCO**](https://www.encoweb.com/)
   
 - Internship - Maintenance team at [**SEAT S.L**](https://www.seat.es/)
-
-
-
-Skills
-======
-
-~~~gfm
-```mermaid
-pie
-    title Pie Chart
-    "Python" : 200
-    "C++" : 150
-    "ROS" : 150 
-    "Docker" : 100 
-    "ML" : 120 
-    "M2M" : 200 
-    "PLC" : 150 
-    "SCADA" : 150 
-```
-~~~
