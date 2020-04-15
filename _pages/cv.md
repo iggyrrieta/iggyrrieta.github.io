@@ -13,6 +13,7 @@ redirect_from:
 
 Education
 ======
+
 * Master's degree Automation and Robotics (2013 - 2014)
 * Engineer's degree - Electronics (2008 -2013)
 
@@ -39,22 +40,7 @@ Work experience
 Skills
 ======
 
-~~~gfm
-```mermaid
-pie
-    title Pie Chart
-    "Python" : 200
-    "C++" : 150
-    "Ros" : 150
-    "AI" : 150
-    "M2M" : 200
-    "Docker" : 100
-    "PLC" : 150
-    "SCADA" : 150
-    "Machine Learning" : 150
-    
-```
-~~~
+
 
 
 
