@@ -1,6 +1,7 @@
-| layout  | title | permalink | author_profile | redirect_from |
-| ------- | ----- | --------- | -------------- | ------------- |
-| archive | CV    | /cv/      | true           | /resume       |
+layout: archive
+title: "CV"
+permalink: /cv/
+redirect_from: /resume
 
 {% include base_path %}
 
