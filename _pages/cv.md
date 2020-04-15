@@ -9,17 +9,17 @@ redirect_from:
 
 
 
-Education
-======
 
-* Master's degree Automation and Robotics (2013 - 2014)
+
+### Education
+
+* Master's degree - Automation and Robotics (2013 - 2014)
 
 * Engineer's degree - Electronics (2008 -2013)
 
   
 
-Work experience
-======
+### Work experience
 * Vision and Automation Engineer at [**AGEVE**](https://ageve.net/)
 
 * Vision and Automation Engineer at [**AUSIL Systems**](http://www.ausilsystems.eu/)
