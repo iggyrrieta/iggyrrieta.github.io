@@ -76,7 +76,7 @@ In this case **ros_joystick** is the name of the package.
 
 This command will create a QT Gui that connects to a ROS master and implement a talker/listener chat. The code created can be removed or changed, **what we want is just the architecture created**. 
 
-![](../images/ros-joystick/qtros.png)
+![](/iggyrrieta.github.io/images/ros-joystick/qtros.png)
 
 
 
@@ -102,13 +102,13 @@ From qtcreator, do the following:
 
 3. Select **Configure Project**
 
-   ![](../images/ros-joystick/qtbuild.png)
+   ![](/iggyrrieta.github.io/images/ros-joystick/qtbuild.png)
 
 4. If it fails building, go to **PROJECTS section** on left panel
 
 5. Change the build directory, select the location where your package is build (inside your catkin workspace in folder build)
 
-   ![](../images/ros-joystick/qtbuild2.png)
+   ![](/iggyrrieta.github.io/images/ros-joystick/qtbuild2.png)
 
 6. If it still fails, close QT creator and open it again from terminal
 
@@ -122,11 +122,11 @@ Check my **ros_joystick** repository  [here](https://github.com/iggyrrieta/ros_j
 
 This is my project tree:
 
-![my project tree](../images/ros-joystick/projectTREE.png)
+![my project tree](/iggyrrieta.github.io/images/ros-joystick/projectTREE.png)
 
 Take in consideration that changes must be reflected in **packages.xml** and **CMakeLists.txt**
 
-![](../images/ros-joystick/ros_joystick_test.png)
+![](/iggyrrieta.github.io/images/ros-joystick/ros_joystick_test.png)
 
 
 
