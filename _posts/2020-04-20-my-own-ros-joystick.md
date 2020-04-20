@@ -122,7 +122,7 @@ Check my **ros_joystick** repository  [here](https://github.com/iggyrrieta/ros_j
 
 This is my project tree:
 
-![my project tree](/iggyrrieta.github.io/images/ros-joystick/projectTREE.png)
+![](/iggyrrieta.github.io/images/ros-joystick/projectTREE.png)
 
 Take in consideration that changes must be reflected in **packages.xml** and **CMakeLists.txt**
 
