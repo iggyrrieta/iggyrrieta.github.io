@@ -10,7 +10,7 @@ tags:
 
 
 
-![](../images/ros-joystick/rosjoystick1.png)
+![](/iggyrrieta.github.io/images/ros-joystick/rosjoystick1.png)
 
 When running a map using ROS for the first time, you are in a position where you need to move your robot around that map. There are some packages already implemented that publish velocity data to the **/cmd_vel** topic. Probably you already heard about the **teleop_twist_keyboard**, made by Graylin Trevor Jay and published on ros.org [here](https://wiki.ros.org/teleop_twist_keyboard)
 
