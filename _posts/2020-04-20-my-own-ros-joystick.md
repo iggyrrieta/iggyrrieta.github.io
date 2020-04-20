@@ -4,6 +4,8 @@ date: 2020-04-20
 permalink: /posts/2020/04/my-own-ros-joystick/
 tags:
   - ROS
+  - QT
+
 ---
 
 
@@ -74,7 +76,7 @@ In this case **ros_joystick** is the name of the package.
 
 This command will create a QT Gui that connects to a ROS master and implement a talker/listener chat. The code created can be removed or changed, **what we want is just the architecture created**. 
 
-![ros_joystick used in a created map in simulation](../images/ros-joystick/qtros.png)
+![](../images/ros-joystick/qtros.png)
 
 
 
