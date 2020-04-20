@@ -8,7 +8,7 @@ tags:
 
 
 
-![](/home/iggy/Documents/GITHUB/iggyrrieta.github.io/_posts/images/ros-joystick/rosjoystick1.png)
+![](../images/ros-joystick/rosjoystick1.png)
 
 When running a map using ROS for the first time, you are in a position where you need to move your robot around that map. There are some packages already implemented that publish velocity data to the **/cmd_vel** topic. Probably you already heard about the **teleop_twist_keyboard**, made by Graylin Trevor Jay and published on ros.org [here](https://wiki.ros.org/teleop_twist_keyboard)
 
@@ -74,7 +74,7 @@ In this case **ros_joystick** is the name of the package.
 
 This command will create a QT Gui that connects to a ROS master and implement a talker/listener chat. The code created can be removed or changed, **what we want is just the architecture created**. 
 
-![ros_joystick used in a created map in simulation](images/ros-joystick/qtros.png)
+![ros_joystick used in a created map in simulation](../images/ros-joystick/qtros.png)
 
 
 
@@ -100,13 +100,13 @@ From qtcreator, do the following:
 
 3. Select **Configure Project**
 
-   ![](/home/iggy/Documents/GITHUB/iggyrrieta.github.io/_posts/images/ros-joystick/qtbuild.png)
+   ![](../images/ros-joystick/qtbuild.png)
 
 4. If it fails building, go to **PROJECTS section** on left panel
 
 5. Change the build directory, select the location where your package is build (inside your catkin workspace in folder build)
 
-   ![](/home/iggy/Documents/GITHUB/iggyrrieta.github.io/_posts/images/ros-joystick/qtbuild2.png)
+   ![](../images/ros-joystick/qtbuild2.png)
 
 6. If it still fails, close QT creator and open it again from terminal
 
@@ -120,11 +120,11 @@ Check my **ros_joystick** repository  [here](https://github.com/iggyrrieta/ros_j
 
 This is my project tree:
 
-![ros_joystick used in a created map in simulation](images/ros-joystick/projectTREE.png)
+![my project tree](../images/ros-joystick/projectTREE.png)
 
 Take in consideration that changes must be reflected in **packages.xml** and **CMakeLists.txt**
 
-![](/home/iggy/Documents/GITHUB/catkin_ws/src/ros_joystick/resources/images/ros_joystick_test.png)
+![](../images/ros-joystick/ros_joystick_test.png)
 
 
 
