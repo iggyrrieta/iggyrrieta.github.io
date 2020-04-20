@@ -132,4 +132,4 @@ Take in consideration that changes must be reflected in **packages.xml** and **C
 
 ## TO DO
 
-The left side of the ros_joystick is useless. It can be used to create or navigate the robot to an specific location.
+The right side of the ros_joystick is useless. It can be used to create or navigate the robot to an specific location.
