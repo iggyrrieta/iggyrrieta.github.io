@@ -74,7 +74,7 @@ catkin_create_qt_pkg ros_joystick
 
 In this case **ros_joystick** is the name of the package. 
 
-This command will create a QT Gui that connects to a ROS master and implement a talker/listener chat. The code created can be removed or changed, **what we want is just the architecture created**. 
+This command will create a QT Gui that connects to a ROS master and publish a topic which is printed using a log. The code created can be removed or changed, **what we want is just the architecture created**. 
 
 ![](/iggyrrieta.github.io/images/ros-joystick/qtros.png)
 
