@@ -12,7 +12,9 @@ tags:
 
 
 
-![](/iggyrrieta.github.io/images/rastreator/rastreator.jpg)
+![](/iggyrrieta.github.io/images/rastreator/rastreator.jpg =50x)
+
+
 
 
 
