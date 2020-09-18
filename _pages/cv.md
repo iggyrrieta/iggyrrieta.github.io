@@ -13,14 +13,16 @@ redirect_from:
 
 ### Education
 
-* Master's degree - Automation and Robotics (2013 - 2014)
+* Master's degree - Intelligent Information Systems (2020 - now) - Universitat Pompeu Fabra (UPF)
 
-* Engineer's degree - Electronics (2008 -2013)
+* Master's degree - Automation and Robotics (2013 - 2014) - Fundació CIM (UPC)
+
+* Engineer's degree - Electronics (2008 -2013) - Universitat Politécnica de Catalunya (UPC)
 
   
 
 ### Work experience
-* Vision and Automation Engineer at [**AGEVE**](https://ageve.net/)
+* Software Engineer at [**AGEVE**](https://ageve.net/)
 
 * Vision and Automation Engineer at [**AUSIL Systems**](http://www.ausilsystems.eu/)
 
