@@ -11,4 +11,7 @@ location: "Sant Cugat, Spain"
 Professor at the ESADE bachelor’s degree in business administration. The subject is about lear-
 ning data science techniques using Python. The lab mainly focuses in applying different python
 libraries such as Pandas or Scikit-learn to introduce machine learning, logistic regression and
-decision trees, applied to different business areas of work. Since 2019 until today.
+decision trees, applied to different business areas of work. 
+
+- 2019 
+- 2020
