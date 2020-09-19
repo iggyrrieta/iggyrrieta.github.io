@@ -11,7 +11,7 @@ tags:
 
 
 
-![](/iggyrrieta.github.io/images/Visual-Studio-Code-Jetson/code.png)
+![](/iggyrrieta.github.io/images/Visual-Studio-Code-Jetson/code_small.png)
 
 
 
