@@ -1,6 +1,6 @@
 ---
 title: 'Visual Studio Code for Jetson'
-date: 2020-09-05
+date: 2020-05-07
 permalink: /posts/2020/05/Visual-Studio-Code-for-Jetson/
 tags:
   - Jetson
