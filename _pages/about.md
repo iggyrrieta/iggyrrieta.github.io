@@ -15,5 +15,5 @@ I'm Iñaki Lorente, an AI and robotics hobbyist.
 You cand find me on
 
 - [Github](https://github.com/iggyrrieta)
-- [Linkedin](https://github.com/iggyrrieta)
+- [Linkedin](https://www.linkedin.com/in/iñakilorente/)
                  
