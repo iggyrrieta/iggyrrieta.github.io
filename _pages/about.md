@@ -10,6 +10,10 @@ redirect_from:
 
 Hi there!,
 
-I'm Iñaki Lorente, an AI and robotics hobbyist. I studied electronics at UPC (Universitat Politecnica de Catalunya). 
+I'm Iñaki Lorente, an AI and robotics hobbyist.
 
-I like to develop cool stuff with Robots. Visit my **blog** to see some of those projects.
+You cand find me on
+
+- [Github](https://github.com/iggyrrieta)
+- [Linkedin](https://github.com/iggyrrieta)
+                 
